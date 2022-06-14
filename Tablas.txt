@@ -1,3 +1,5 @@
+/* CREACIÓN BÁSICA DE TABLAS */
+
 CREATE TABLE `usuarios_db`.`usuarios` (
   `idusuarios` INT NOT NULL AUTO_INCREMENT,
   `usuario` VARCHAR(45) NOT NULL,
