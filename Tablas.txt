@@ -1,5 +1,18 @@
-CREATE TABLE `usuarios_db`.`usuarios` (
-  `idusuarios` INT NOT NULL AUTO_INCREMENT,
-  `usuario` VARCHAR(45) NOT NULL,
-  `password` INT NOT NULL,
-  PRIMARY KEY (`idusuarios`));
+agahgjosheiserhdrh
+dhdrhdrhdrh
+rhdrhdrhdrh
+dhdrh
+drhdrhdrhdrh
+drh
+drhdhr
+drh
+drhrhd
+dhr
+dr
+hd
+rh
+drh
+drh
+drhdr
+h
+drhdrh
